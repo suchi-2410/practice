@@ -1,0 +1,17 @@
+main{
+    border: 2px solid black;
+    width: 50%;
+}
+section{
+    border: 2px dotted black;
+    width: 70vw;
+}
+body{
+    font-size: 2em;
+}
+header{
+    font-size: 2em;
+}
+h2{
+    font-size: 4rem;
+}
